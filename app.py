@@ -5,7 +5,7 @@ import io
 import requests
 
 # App title
-st.title("Background Remover App by Mohammad Wasiq")
+st.title("Background Remover App by Mohammad Wasiq & Zainul Abedeen")
 st.write("Upload an image or provide an image URL to remove its background and download the result.")
 st.write("Note: Please upload the image in .jpg and .png format.")
 
